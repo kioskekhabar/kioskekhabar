@@ -1,27 +1,34 @@
-# Economy News | Kioskekhabar
+# Kioskekhabar | کیوسک خبر
 
-Kioskekhabar provides in-depth analysis and coverage of Iran's economy, including:
+پایگاه خبری کیوسک خبر | افق اقتصاد ایران و جهان
 
-- Inflation and monetary policies
-- Stock market and capital markets
-- Banking and insurance
-- Oil, energy, and petrochemicals
-- Urban management and economic infrastructure
+ما در کیوسک خبر به دنبال ارائه تحلیل‌های عمیق و پوشش سریع رویدادهای روز هستیم.
 
-## Latest Economy News
+وب‌سایت: [kioskekhabar.ir](https://kioskekhabar.ir)
 
-Here are some of the latest economy news from Kioskekhabar:
+---
 
-- [Iran's Inflation Rate Drops](https://kioskekhabar.ir/category/economy/)
-- [Stock Market Updates](https://kioskekhabar.ir/category/stock-market/)
-- [Banking Sector News](https://kioskekhabar.ir/category/bank-insurance/)
-- [Oil and Energy News](https://kioskekhabar.ir/category/oil-energy/)
+## دسته‌های خبری
 
-## Visit Our Economy Category
-
-For the latest economy news and analysis, visit:
-
-[https://kioskekhabar.ir/category/economy/](https://kioskekhabar.ir/category/economy/)
+- [اقتصادی](https://kioskekhabar.ir/category/economy/)
+- [ورزشی](https://kioskekhabar.ir/category/sports/)
+- [ایران و جهان](https://kioskekhabar.ir/category/iran-world/)
+- [بانک و بیمه](https://kioskekhabar.ir/category/bank-insurance/)
+- [صنعت و معدن](https://kioskekhabar.ir/category/industry-mining/)
+- [بورس و بازارهای مالی](https://kioskekhabar.ir/category/stock-market/)
+- [اجتماعی](https://kioskekhabar.ir/category/society/)
+- [اخبار گوناگون](https://kioskekhabar.ir/category/news/)
+- [فناوری](https://kioskekhabar.ir/category/technology/)
+- [اینفوگرافیک](https://kioskekhabar.ir/category/infographic/)
+- [خبر ویژه](https://kioskekhabar.ir/category/special-news/)
+- [خوانندگان](https://kioskekhabar.ir/category/readers/)
+- [عکس ها](https://kioskekhabar.ir/category/photos/)
+- [نفت و انرژی](https://kioskekhabar.ir/category/oil-energy/)
+- [ویدئو](https://kioskekhabar.ir/category/video/)
+- [پتروشیمی](https://kioskekhabar.ir/category/petrochemical/)
+- [یادداشت](https://kioskekhabar.ir/category/opinion/)
+- [بایگانی خبر](https://kioskekhabar.ir/category/news-archive/)
+- [مدیریت شهری](https://kioskekhabar.ir/category/urban-management/)
 
 ---
 
