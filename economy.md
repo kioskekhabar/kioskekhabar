@@ -1,4 +1,4 @@
-# اخبار اقتصادی
+# Economy News
 
-لینک دسته اقتصادی سایت کیوسک خبر:
+Link to Kioskekhabar economy category:
 https://kioskekhabar.ir/category/economy/
