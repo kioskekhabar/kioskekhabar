@@ -1,4 +1,4 @@
-# اخبار ورزشی
+# Sports News
 
-لینک دسته ورزشی سایت کیوسک خبر:
+Link to Kioskekhabar sports category:
 https://kioskekhabar.ir/category/sports/
